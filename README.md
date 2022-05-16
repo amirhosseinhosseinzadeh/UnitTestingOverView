@@ -5,10 +5,12 @@ Authentication part
 pyramid of testing 
 
 {
+  
     _______________________________
     |                             |
     |      Manual                 |
     |_____________________________|
+  
     _______________________________
     |                             |
     |      User Interface         |
@@ -121,6 +123,7 @@ Overlook (decide from frameworks)
 
 creating test class =>
 {
+  
     __________________________________________
     |              |             |           |    
     |  MsTest      |     NUnit   |   xUnit   |              
@@ -133,6 +136,7 @@ creating test class =>
 
 creating a simple unit testing method which dont take any parameters =>
 {
+ 
     __________________________________________
     |              |             |           |    
     |  MsTest      |     NUnit   |   xUnit   |              
@@ -145,6 +149,7 @@ creating a simple unit testing method which dont take any parameters =>
 
 creating setup any rtesources such as a database refernce or a service reference =>
 {
+ 
     _____________________________________________
     |                 |             |           |    
     |     MsTest      |     NUnit   |   xUnit   |              
@@ -157,6 +162,7 @@ creating setup any rtesources such as a database refernce or a service reference
 
 cleaning the resources =>
 {
+
     _____________________________________________
     |                 |             |           |    
     |     MsTest      |     NUnit   |   xUnit   |              
@@ -169,6 +175,7 @@ cleaning the resources =>
 
 ignoring a unit test method because we dont wanna to use that method anymore =>
 {
+   
     ________________________________________________________________
     |                 |                  |                         |    
     |     MsTest      |     NUnit        |         xUnit           |              
@@ -181,6 +188,7 @@ ignoring a unit test method because we dont wanna to use that method anymore =>
 
 passing data to a unit testing method =>
 {
+   
     ________________________________________________________________
     |                 |                  |                         |    
     |     MsTest      |     NUnit        |         xUnit           |              
