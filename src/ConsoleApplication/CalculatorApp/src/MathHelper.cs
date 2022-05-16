@@ -22,7 +22,8 @@ public class MathFormulas : IEnumerable<object[]>
     {
         var sum = Sum(values);
 
-        return sum / values.Length;
+        double result = (double)sum / (double)values.Length;
+        return result;
     }
 
     public static IEnumerable<object[]> Data

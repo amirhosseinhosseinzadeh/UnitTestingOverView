@@ -31,7 +31,7 @@ pyramid of testing
 
  Unit testing =>
  {
-     unit testing is testing a single a unit of app (the smallest part of testing)
+     unit testing is testing a single unit of app (the smallest part of testing)
      it usually have a one or some input and usually a single output
      in oop the smallest unit is a method
  }
@@ -147,7 +147,7 @@ creating a simple unit testing method which dont take any parameters =>
     |______________|_____________|___________|    
 }
 
-creating setup any rtesources such as a database refernce or a service reference =>
+creating setup any resources such as a database refernce or a service reference =>
 {
  
     _____________________________________________
