@@ -31,6 +31,7 @@ pyramid of testing
 
  Unit testing =>
  {
+     
      unit testing is testing a single unit of app (the smallest part of testing)
      it usually have a one or some input and usually a single output
      in oop the smallest unit is a method
@@ -38,17 +39,20 @@ pyramid of testing
 
  Integration =>
  {
+     
      Is a software testing which an indivisual unit will combine and test as a group
  }
 
 Acceptence =>
 {
+    
     is anothe level of testing and the purpose of this test is to evaluate the systems compliance with the businuess requirments
     and make sure application is ready for deliver
 }
 
 User interface (UI test)=>
 {
+    
     will use to check the user interface of program such as result of clicks ,scrolls .etc 
     Ui test is great for checking if app is wotking as expected to
 }
@@ -59,6 +63,7 @@ Manual =>
 }
 
 Benefits =>
+    
     ☼ Easy to refactor
     ☼ Easy to add new modules or removing the an existence module
     ☼ Resusable code
@@ -67,6 +72,7 @@ Benefits =>
     ☼ Reduced costs
 
 wrong taughts abot unit tests =>
+    
     ☼ Do not test everything
     ☼ The date shouldnt have nuch differences with prodcution data's
     ☼ Unit tests must be undependent from each others
@@ -91,6 +97,7 @@ Ms test =>
 
 NUnit =>
 {
+    
     NUnit is a testing framework for all dotnet languages but its existence will return to 30-years befor dontet even borns
     JUnit was a framwork for testing applications for java (pl)
     (Derived form JUnit)
@@ -108,6 +115,7 @@ NUnit =>
 
 xUnit =>
 {
+    
     the latest technology for testing dontet applications 
     made by enventor of NUnit
     
@@ -200,6 +208,7 @@ passing data to a unit testing method =>
 } 
 
 most of developers goin to forward with xUnit because of
+    
     ☼ the latest technology when it comes to testing dotnet languages
     ☼ opensource 
     ☼ comunity focused
