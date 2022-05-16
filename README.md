@@ -1,6 +1,5 @@
 Test course
 
-s 2 ep 1
 Authentication part
 
 pyramid of testing 
